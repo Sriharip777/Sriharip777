@@ -1,4 +1,4 @@
-![logo](https://github.com/Sriharip93/Sriharip93/blob/main/Dark%20Red%20White%20Black%20Digital%20Nomad%20%20YouTube%20Banner.png
+![logo](https://github.com/Sriharip93/Sriharip93/blob/main/Neon%20Pink%20Black%20Dark%20Aesthetic%20Minimal%20Technology%20Coding%20Twitter%20Header%20(1).png
 )
 
 <h1 align="center">Hi 👋, I'm Srihari</h1>
