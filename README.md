@@ -7,8 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriharip93&label=Profile%20views&color=0e75b6&style=flat" alt="sriharip93" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sriharip93?tab=repositories](https://github.com/Sriharip93?tab=repositories)
-
 - 📫 How to reach me **sriharip93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
