@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <br>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/sriharip93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sriharip93" height="30" width="40" /></a>
@@ -28,5 +28,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sriharip93&show_icons=true&locale=en" alt="sriharip93" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sriharip93&" alt="sriharip93" /></p>
 
