@@ -35,18 +35,37 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-### 💻 Languages & Tools
+
+
+<h3 align="left">💻 Languages & Tools</h3>
 
 <p align="left">
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /></a>
-  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" /></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></a>
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /></a>
-  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" /></a>
+  <a href="https://www.java.com" target="_blank" title="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" style="margin: 6px; border-radius: 12px;" />
+  </a>
+  <a href="https://spring.io/" target="_blank" title="Spring">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="35" style="margin: 6px; border-radius: 12px;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35" style="margin: 6px; border-radius: 12px;" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" title="AWS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" style="margin: 6px; border-radius: 12px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" style="margin: 6px; border-radius: 12px;" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" title="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="35" style="margin: 6px; border-radius: 12px;" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="35" style="margin: 6px; border-radius: 12px;" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="35" style="margin: 6px; border-radius: 12px;" />
+  </a>
 </p>
+
 
 ---
 
