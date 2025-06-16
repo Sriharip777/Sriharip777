@@ -53,11 +53,10 @@
 
 ### 📈 My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriharip777&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sriharip777&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<div align="center" style="padding: 20px 0;">
+  <img style="box-shadow: 0 4px 20px rgba(0,0,0,0.2);" src="https://github-readme-stats.vercel.app/api?username=sriharip777&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img style="box-shadow: 0 4px 20px rgba(0,0,0,0.2);" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriharip777&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
-
 
 
 <!-- ✨ Special Element: Animated Quote Card -->
